@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>img_407.jpg</filename>
+	<path>Images\img_407.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2340</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>986</xmin>
+			<ymin>911</ymin>
+			<xmax>1219</xmax>
+			<ymax>1187</ymax>
+		</bndbox>
+	</object>
+</annotation>
