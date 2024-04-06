@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img_23.jpg</filename>
+	<path>D:\Study\Year_3_Sem_1\COS30018_Intelligent_Systems\Group Project\Final Datasets\images\img_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2322</width>
+		<height>4128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1401</xmin>
+			<ymin>2680</ymin>
+			<xmax>1532</xmax>
+			<ymax>3006</ymax>
+		</bndbox>
+	</object>
+</annotation>
