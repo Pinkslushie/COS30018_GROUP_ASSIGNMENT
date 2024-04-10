@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>img_457.jpg</filename>
+	<path>img_457.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>660</xmin>
+			<ymin>246</ymin>
+			<xmax>815</xmax>
+			<ymax>809</ymax>
+		</bndbox>
+	</object>
+</annotation>
