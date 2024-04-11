@@ -14,30 +14,34 @@ import os
 
 # Models
 MODELS_CONFIG = {
-    'ssd_mobilenet_v2': {
-        'model_name': 'ssd_mobilenet_v2_320x320_coco17_tpu-8',
-        'model_path': r'\models\ssd_mobilenet_v2',
+    'efficientdet_d0': {
+        'model_name': 'efficientdet_d0_coco17_tpu-32',
+        'model_path': r'\models\efficientdet_d0',
         'pipeline_file': '\pipeline.config'
     },
-    # 'ssd_mobilenet_v2_fpn': {
-    #     'model_name': 'ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8',
-    #     'model_path': r'\models\tf2\my_ssd_mobilenet_v2_fpnlite',
-    #     'pipeline_file': '\pipeline.config'
-    # },
-    # 'my_centernet_resnet50_v1_fpn': {
-    #     'model_name': 'centernet_resnet50_v1_fpn_512x512_coco17_tpu-8',
-    #     'model_path': r'\models\tf2\my_centernet_resnet50_v1_fpn',
-    #     'pipeline_file': '\pipeline.config'
-    # },
-    # 'my_centernet_resnet101_v1_fpn': {
-    #     'model_name': 'centernet_resnet101_v1_fpn_512x512_coco17_tpu-8',
-    #     'model_path': r'\models\tf2\my_centernet_resnet101_v1_fpn',
-    #     'pipeline_file': '\pipeline.config'
-    # }
+
+    'efficientdet_d1': {
+        'model_name': 'efficientdet_d0_coco17_tpu-32',
+        'model_path': r'\models\efficientdet_d1',
+        'pipeline_file': '\pipeline.config'
+    },
+
+    # UPDATE THESE TO YOUR CENTERNET. TAKE NOTE OF THE MODEL PATH. #
+
+    'my_centernet_resnet50_v1_fpn': {
+        'model_name': 'centernet_resnet50_v1_fpn_512x512_coco17_tpu-8',
+        'model_path': r'\models\tf2\my_centernet_resnet50_v1_fpn',
+        'pipeline_file': '\pipeline.config'
+    },
+    'my_centernet_resnet101_v1_fpn': {
+        'model_name': 'centernet_resnet101_v1_fpn_512x512_coco17_tpu-8',
+        'model_path': r'\models\tf2\my_centernet_resnet101_v1_fpn',
+        'pipeline_file': '\pipeline.config'
+    }
 }
 
-# Select a model to use.
-selected_model = 'ssd_mobilenet_v2'
+# SELECT THE MODEL YOU'RE USING,
+selected_model = 'efficientdet_d0'
 
 model_name = MODELS_CONFIG[selected_model]['model_name']
 model_path = MODELS_CONFIG[selected_model]['model_path']
