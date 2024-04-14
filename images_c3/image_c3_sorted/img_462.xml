@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img_462.jpg</filename>
+	<path>D:\Study\Year_3_Sem_1\COS30018_Intelligent_Systems\Group Project\Public Datasets\sku110k-DatasetNinja\train\img\img_462.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4128</width>
+		<height>3096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3032</xmin>
+			<ymin>1631</ymin>
+			<xmax>3661</xmax>
+			<ymax>2001</ymax>
+		</bndbox>
+	</object>
+</annotation>
