@@ -1,0 +1,38 @@
+<annotation>
+	<folder>img</folder>
+	<filename>img_469.jpg</filename>
+	<path>D:\Study\Year_3_Sem_1\COS30018_Intelligent_Systems\Group Project\Public Datasets\sku110k-DatasetNinja\train\img\img_469.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>967</xmin>
+			<ymin>1590</ymin>
+			<xmax>1453</xmax>
+			<ymax>1828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1237</xmin>
+			<ymin>1109</ymin>
+			<xmax>1389</xmax>
+			<ymax>1302</ymax>
+		</bndbox>
+	</object>
+</annotation>

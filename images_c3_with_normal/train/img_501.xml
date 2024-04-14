@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>c3_oos</folder>
+	<filename>img_501.jpg</filename>
+	<path>img_501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1361</xmin>
+			<ymin>1325</ymin>
+			<xmax>1443</xmax>
+			<ymax>1535</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image2</folder>
+	<filename>img_486.jpg</filename>
+	<path>C:\Users\Jaden\Desktop\Semester 6\COS30018 INTELLIGENT SYSTEMS\Assignment\Group\image2\img_486.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2368</width>
+		<height>4224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1089</xmin>
+			<ymin>2244</ymin>
+			<xmax>1512</xmax>
+			<ymax>2538</ymax>
+		</bndbox>
+	</object>
+</annotation>

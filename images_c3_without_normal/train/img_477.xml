@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image2</folder>
+	<filename>img_477.jpg</filename>
+	<path>C:\Users\Jaden\Desktop\Semester 6\COS30018 INTELLIGENT SYSTEMS\Assignment\Group\image2\img_477.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2336</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1768</xmin>
+			<ymin>2799</ymin>
+			<xmax>1940</xmax>
+			<ymax>3328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1703</xmin>
+			<ymin>1048</ymin>
+			<xmax>1954</xmax>
+			<ymax>1311</ymax>
+		</bndbox>
+	</object>
+</annotation>
