@@ -1,0 +1,38 @@
+<annotation>
+	<folder>img</folder>
+	<filename>train_620.jpg</filename>
+	<path>D:\Study\Year_3_Sem_1\COS30018_Intelligent_Systems\Group Project\Public Datasets\sku110k-DatasetNinja\train\img\train_620.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>889</xmin>
+			<ymin>2286</ymin>
+			<xmax>1284</xmax>
+			<ymax>2525</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1339</xmin>
+			<ymin>2638</ymin>
+			<xmax>1614</xmax>
+			<ymax>2960</ymax>
+		</bndbox>
+	</object>
+</annotation>
