@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image2</folder>
+	<filename>113.jpg</filename>
+	<path>C:\Users\Jaden\Desktop\Semester 6\COS30018 INTELLIGENT SYSTEMS\Assignment\Group\image2\113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>1353</ymin>
+			<xmax>701</xmax>
+			<ymax>1691</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>81</ymin>
+			<xmax>762</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

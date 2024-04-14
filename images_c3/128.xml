@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image2</folder>
+	<filename>128.jpg</filename>
+	<path>C:\Users\Jaden\Desktop\Semester 6\COS30018 INTELLIGENT SYSTEMS\Assignment\Group\image2\128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2336</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1584</xmin>
+			<ymin>1613</ymin>
+			<xmax>1766</xmax>
+			<ymax>1852</ymax>
+		</bndbox>
+	</object>
+</annotation>
