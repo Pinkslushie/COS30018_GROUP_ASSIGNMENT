@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Misplacement</folder>
+	<filename>img_234.jpg</filename>
+	<path>C:\#Intelligent System\###Assignment\Dataset\Misplacement\img_234.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2272</width>
+		<height>1704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>888</xmin>
+			<ymin>132</ymin>
+			<xmax>1219</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>48</ymin>
+			<xmax>577</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

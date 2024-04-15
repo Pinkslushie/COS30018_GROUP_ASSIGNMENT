@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img_59.jpg</filename>
+	<path>img_59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>781</xmin>
+			<ymin>1745</ymin>
+			<xmax>871</xmax>
+			<ymax>1976</ymax>
+		</bndbox>
+	</object>
+</annotation>
