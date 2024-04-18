@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img_221.jpg</filename>
+	<path>img_221.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2336</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1751</xmin>
+			<ymin>1450</ymin>
+			<xmax>1918</xmax>
+			<ymax>1633</ymax>
+		</bndbox>
+	</object>
+</annotation>
