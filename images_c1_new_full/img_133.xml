@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Misplacement</folder>
+	<filename>img_133.jpg</filename>
+	<path>C:\#Intelligent System\###Assignment\Dataset\Misplacement\img_133.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2780</width>
+		<height>4185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1739</xmin>
+			<ymin>1919</ymin>
+			<xmax>2408</xmax>
+			<ymax>2837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1771</xmin>
+			<ymin>928</ymin>
+			<xmax>2194</xmax>
+			<ymax>1765</ymax>
+		</bndbox>
+	</object>
+</annotation>

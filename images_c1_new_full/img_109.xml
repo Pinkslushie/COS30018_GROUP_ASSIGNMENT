@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oos</folder>
+	<filename>img_109.jpg</filename>
+	<path>C:\Users\cckia\OneDrive\Desktop\(github)Intelligent System Group Project\Finalised Dataset\Image Organisation\OOS OR Misplacement\oos\img_109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3968</width>
+		<height>2976</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>1572</ymin>
+			<xmax>454</xmax>
+			<ymax>1936</ymax>
+		</bndbox>
+	</object>
+</annotation>
