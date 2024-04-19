@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images_c1_new_full</folder>
+	<filename>img_56.jpg</filename>
+	<path>D:\Study\Year_3_Sem_1\COS30018_Intelligent_Systems\Group Project\COS30018_GROUP_ASSIGNMENT-main\images_c1_new_full\img_56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymin>2278</ymin>
+			<xmax>927</xmax>
+			<ymax>2574</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>525</xmin>
+			<ymin>1959</ymin>
+			<xmax>705</xmax>
+			<ymax>2202</ymax>
+		</bndbox>
+	</object>
+</annotation>
