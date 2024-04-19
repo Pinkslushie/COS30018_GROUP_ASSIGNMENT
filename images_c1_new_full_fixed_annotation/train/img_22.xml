@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images_c1_new_full</folder>
+	<filename>img_22.jpg</filename>
+	<path>D:\Study\Year_3_Sem_1\COS30018_Intelligent_Systems\Group Project\COS30018_GROUP_ASSIGNMENT-main\images_c1_new_full\img_22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1001</xmin>
+			<ymin>1453</ymin>
+			<xmax>1100</xmax>
+			<ymax>1722</ymax>
+		</bndbox>
+	</object>
+</annotation>
