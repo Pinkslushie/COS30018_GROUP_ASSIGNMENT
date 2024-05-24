@@ -1,0 +1,38 @@
+<annotation>
+	<folder>planogram ext all</folder>
+	<filename>img_70.jpg</filename>
+	<path>C:\Users\cckia\OneDrive\Desktop\Tran Model\### angled image\planogram ext all\img_70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>2560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymin>1408</ymin>
+			<xmax>949</xmax>
+			<ymax>1686</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Out-of-stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1259</xmin>
+			<ymin>1320</ymin>
+			<xmax>1328</xmax>
+			<ymax>1516</ymax>
+		</bndbox>
+	</object>
+</annotation>

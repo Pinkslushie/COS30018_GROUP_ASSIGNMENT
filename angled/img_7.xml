@@ -1,0 +1,26 @@
+<annotation>
+	<folder>planogram ext all</folder>
+	<filename>img_7.jpg</filename>
+	<path>C:\Users\cckia\OneDrive\Desktop\Tran Model\### angled image\planogram ext all\img_7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Misplacement</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>2364</ymin>
+			<xmax>374</xmax>
+			<ymax>3150</ymax>
+		</bndbox>
+	</object>
+</annotation>
