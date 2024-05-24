@@ -120,6 +120,9 @@ There is 1 tool:
 
 ## Key Note about Labelme
 To enable proper warping, it is crucial to draw polygon in this order:
+        ( <br> )
         1 2
+        ( <br> )
         3 4
+        ( <br> )
 Without this order, the image would be flip to an unusable state.
