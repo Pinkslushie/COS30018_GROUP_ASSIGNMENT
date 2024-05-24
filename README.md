@@ -1,4 +1,4 @@
-# Image Dataset Overview
+![image](https://github.com/Pinkslushie/COS30018_GROUP_ASSIGNMENT/assets/133955496/b5d8146a-a63f-436b-b53b-4f9acf54aa9c)# Image Dataset Overview
 
 ## Datasets
 
@@ -75,7 +75,48 @@ python C:\Users\Public\COS30082\Tensorflow\models\research\object_detection\mode
 ## Model Exportation
 
 The model is exported using exporter_main_v2.py, which is part of the TensorFlow Object Detection API. The model accepts images in tensor format. We need to provide the directory to the pipeline.config used and the directory of the model’s checkpoint, which is training, and save it in a directory called exported-models.
-
 ```bash
 python C:\Users\Public\COS30082\models-master\research\object_detection\exporter_main_v2.py --input_type image_tensor --pipeline_config_path="models\[model name]\pipeline.config" --trained_checkpoint_dir="training" --output_directory="exported-models"
 ```
+
+
+
+# GUI Instruction
+The GUI contain an object detection model trained for detecting out-of-stock and misplacement. 
+There are 4 buttons:
+- Activate Cam for Real Time Object Detection: It will activate the cam of the laptop to allow the model to perform object detection
+- Select Video for Object Detection: It will prompt user to select a video to perform object detection
+- Select Image for Object Detection: It will prompt user to select an image to perform object detection
+- Select Image to Warp: : It will prompt user to select an image to perform warp (must required labelme)
+  
+There is 1 tool:
+- Labelme: A tool by labelmeai that enable warp image technique
+
+## Preliminary requirement:
+- Setup conda environment (tutorial to setup conda environment: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment)
+- Install Tensorflow (tutorial to install tensorflow can be found here: https://www.tensorflow.org/tutorials)
+- Install Python (setup installer can be found here: https://www.python.org/downloads/windows/)
+  - Install opencv
+    ```bash
+    pip install opencv-python
+    ```
+
+## Command Code to Run
+- Activate the conda environment
+   ```bash
+    conda activate <envinroment>
+    ```
+- navigate to the folder
+   ```bash
+    cd <filepath>
+    ```
+- run the interface
+   ```bash
+    python interface.py
+    ```
+
+## Key Note about Labelme
+To enable proper warping, it is crucial to draw polygon in this order:
+        1 2
+        3 4
+Without this order, the image would be flip to an unusable state.
