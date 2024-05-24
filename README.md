@@ -1,4 +1,4 @@
-![image](https://github.com/Pinkslushie/COS30018_GROUP_ASSIGNMENT/assets/133955496/b5d8146a-a63f-436b-b53b-4f9acf54aa9c)# Image Dataset Overview
+# Image Dataset Overview
 
 ## Datasets
 
@@ -82,6 +82,9 @@ python C:\Users\Public\COS30082\models-master\research\object_detection\exporter
 
 
 # GUI Instruction
+
+![image](https://github.com/Pinkslushie/COS30018_GROUP_ASSIGNMENT/assets/133955496/b5d8146a-a63f-436b-b53b-4f9acf54aa9c)
+
 The GUI contain an object detection model trained for detecting out-of-stock and misplacement. 
 There are 4 buttons:
 - Activate Cam for Real Time Object Detection: It will activate the cam of the laptop to allow the model to perform object detection
